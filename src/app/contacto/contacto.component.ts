@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Router, ActivatedRoute, Params } from '@angular/router';
 
 @Component({
-    selector: 'contacto',
+    selector: 'app-contacto',
     templateUrl: './contacto.component.html'
 })
 export class ContactoComponent implements OnInit {
